@@ -196,6 +196,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 For questions or feedback, please open an issue or contact:
 
 * **Balajee Dutta** (Maintainer)
-* Email: [balajee.dutta@example.com](mailto:balajee.dutta@example.com)
+* Email: [bldutta94@gmail.com](mailto:bldutta94@gmail.com)
 
 Happy analyzing! 🎉
